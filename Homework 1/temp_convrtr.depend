@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1412827098 source:c:\users\andrew\desktop\university of washington\temp_convrtr\main.c
+	<stdio.h>
+	<stdlib.h>
+
